@@ -30,7 +30,7 @@ Based on the results from this analysis, it is recommended that *shorter duratio
 
 ## Relevant Links
 1. [View report](Investigate%20a%20Dataset/Investigate%20a%20Dataset.ipynb) in Jupyter Notebook.
-2. [View report](Investigate%20a%20Dataset/Investigate%20a%20Dataset.html)
+2. [View report](/Investigate%20a%20Dataset.html)
 3. [Dataset](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv) in CSV.
 
 *This project was completed to fulfill the requirement for [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) at Udacity.*
