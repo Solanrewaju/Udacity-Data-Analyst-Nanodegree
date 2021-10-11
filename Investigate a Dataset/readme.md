@@ -29,8 +29,8 @@ In response to the analysis questions posed, the findings indicates the followin
 Based on the results from this analysis, it is recommended that *shorter duration* be given to patients seeking appointments. Also, SMS or email reminder should be considered are targeted to patients who are more likely to miss appointments. These includes those 10+ years old, females and people not on scholarship.
 
 ## Relevant Links
-1. [View report](Investigate a Dataset/Investigate a Dataset.ipynb) in Jupyter Notebook.
-2. [View report](Investigate a Dataset/Investigate a Dataset.html)
+1. [View report](Investigate a Dataset/Investigate%20a%20Dataset.ipynb) in Jupyter Notebook.
+2. [View report](Investigate a Dataset/Investigate%20a%20Dataset.html)
 3. [Dataset](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59dd2e9a_noshowappointments-kagglev2-may-2016/noshowappointments-kagglev2-may-2016.csv) in CSV.
 
 *This project was completed to fulfill the requirement for [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002) at Udacity.*
